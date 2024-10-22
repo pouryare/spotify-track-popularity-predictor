@@ -1,7 +1,4 @@
-```markdown
 # Spotify Track Popularity Predictor
-
-![Application Screenshot](screenshot.png)
 
 ## Project Overview
 
@@ -17,6 +14,9 @@ The project showcases the practical application of machine learning in the music
 - Multiple deployment options for different use cases
 
 This project draws inspiration from Spotify's audio analysis capabilities and aims to make these insights accessible to everyone interested in music production and analysis.
+
+
+![Application Screenshot](screenshot.png)
 
 ## Table of Contents
 
@@ -233,4 +233,3 @@ This project is licensed under the MIT License. See the [MIT License](https://op
 For issues or suggestions, please open an issue on the [GitHub repository](https://github.com/pouryare/spotify-track-popularity-predictor).
 
 This project aims to bridge the gap between music production and data science, providing valuable insights into what makes songs popular on Spotify. Whether you're a music producer, artist, or data scientist, this tool offers practical insights into the relationship between audio features and track popularity.
-```
